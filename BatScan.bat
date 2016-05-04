@@ -1,4 +1,4 @@
-:: I found it on the Internet an modified it. The code from line 94 to the end is written from me to
+:: I found it on the Internet and modified it. The code from line 94 to the end is written from me to
 :: create a better overview of the active computers on the (Sub)Network.
 
 @echo off
